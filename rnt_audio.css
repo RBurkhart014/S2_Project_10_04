@@ -24,6 +24,10 @@ audio {
     width: 80%;
 }
 
+/* This added styles to the audio clips displayed on the webpage */
+
 audio::-webkit-media-controls-panel {
     background: rgb(128, 128, 255);
 }
+
+/* This added a dark blue-ish color to the outer frame of the audio clip */
