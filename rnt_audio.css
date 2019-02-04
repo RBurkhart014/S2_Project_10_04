@@ -23,3 +23,7 @@ audio {
     margin-right: auto;
     width: 80%;
 }
+
+audio::-webkit-media-controls-panel {
+    background: rgb(128, 128, 255);
+}
